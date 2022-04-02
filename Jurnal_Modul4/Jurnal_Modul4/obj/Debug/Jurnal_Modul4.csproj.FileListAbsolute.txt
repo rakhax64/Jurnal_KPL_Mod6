@@ -1,3 +1,0 @@
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\Pratikum\Jurnal_Modul4\Jurnal_Modul4\obj\Debug\Jurnal_Modul4.csproj.AssemblyReference.cache
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\Pratikum\Jurnal_Modul4\Jurnal_Modul4\obj\Debug\Jurnal_Modul4.csproj.SuggestedBindingRedirects.cache
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\Pratikum\Jurnal_Modul4\Jurnal_Modul4\obj\Debug\Jurnal_Modul4.csproj.CoreCompileInputs.cache
