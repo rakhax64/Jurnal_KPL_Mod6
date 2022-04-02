@@ -1,2 +1,0 @@
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\Pratikum\Modul3\Modul3\obj\Debug\Modul3.csproj.AssemblyReference.cache
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\Pratikum\Modul3\Modul3\obj\Debug\Modul3.csproj.CoreCompileInputs.cache
