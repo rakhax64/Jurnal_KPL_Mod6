@@ -1,0 +1,21 @@
+{
+   "firstName": "Muhammad",
+   "lastName": "Fauzi Dwikurnia",
+   "gender": "male",
+   "age": 21,
+   "address": {
+       "streetAddress": "Margahayu",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI3F4", "name": "Pengujian Perangkat Lunak" },
+       { "code": "CRI3H2", "name": "Keprofesian Rekayasa Perangkat Lunak" },
+       { "code": "CRI3I3", "name": "Pemrograman Perangkat Bergerak" },
+       { "code": "CRI3K2", "name": "Proyek Tingkat III" }, 
+       { "code": "CRI3J2", "name": "Bahasa Inggris: Writing and Speaking" },
+       { "code": "UWI3A2", "name": "Kewirausahaan" },
+       { "code": "UKI1B2", "name": "Pendidikan Pancasila" }
+   ]
+}
