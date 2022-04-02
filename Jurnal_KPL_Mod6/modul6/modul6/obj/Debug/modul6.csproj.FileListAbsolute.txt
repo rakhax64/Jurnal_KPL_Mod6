@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\Jurnal_KPL_Mod6\modul6\modul6\bin\Debug\modul6.exe.config
+C:\Users\ASUS\source\repos\Jurnal_KPL_Mod6\modul6\modul6\bin\Debug\modul6.exe
+C:\Users\ASUS\source\repos\Jurnal_KPL_Mod6\modul6\modul6\bin\Debug\modul6.pdb
+C:\Users\ASUS\source\repos\Jurnal_KPL_Mod6\modul6\modul6\obj\Debug\modul6.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Jurnal_KPL_Mod6\modul6\modul6\obj\Debug\modul6.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Jurnal_KPL_Mod6\modul6\modul6\obj\Debug\modul6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Jurnal_KPL_Mod6\modul6\modul6\obj\Debug\modul6.exe
+C:\Users\ASUS\source\repos\Jurnal_KPL_Mod6\modul6\modul6\obj\Debug\modul6.pdb

@@ -1,0 +1,25 @@
+using System.Text.Json;
+
+namespace modul6_kelompok_5
+{
+	public class DataMahasiswa_1302190047
+	{
+		public class DataMahasiswa
+		{
+			public string firstName { get; set; }
+			public string lastName { get; set; }
+			public string gender { get; set; }
+			public string address { get; set; }
+			public string courses { get; set; }
+		}
+		public void ReadJSON()
+		{
+			string file = "Jurnal_KPL_1302190047.json";
+			string dataStr = File.ReadAllText(file);
+			DataMahasiswa dataMahasiswa = JsonSerializer.Deserialize<DataMahasiswa>(dataStr);
+
+
+			Console.WriteLine($"Nama depan {dataMahasiswa.firstName} nama belakang {dataMahasiswa.lastName} gender {dataMahasiswa.gender} beralamat di {dataMahasiswa.address} mengambil matkul {dataMahasiswa.courses}");
+		}
+	}
+}
